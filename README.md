@@ -33,7 +33,8 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 ![Etapa 1/2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Videoteca/Etapa%201%20-%20Videoteca.png)
 
 ## Topico 2 :
-Conforme o material apresentado sobre atributos, refaça os MER criados para os exercícios acima, adaptando com os devidos atributos explicados durante a aula;
+Conforme o material apresentado sobre atributos, refaça os MER criados para os exercícios acima, adaptando com os devidos atributos explicados durante a aula.
+
 1 -Um petshop deseja manter cadastrados seus clientes bem como seus pets.
 Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet.
 
