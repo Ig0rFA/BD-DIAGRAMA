@@ -7,20 +7,20 @@ CREATE TABLE alunos (
  	 Endereco_Email VARCHAR2(4000)
   );
    
-   INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
+   INSERT INTO alunos(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
    VALUES('1', '235940', 'Igor', 2000-01-01, 'igorficticio@gmail.com');
    
-   INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
-   VALUES('1', '235941', 'Jose', 2001-02-02, 'Joseficticio@gmail.com');
+   INSERT INTO alunos(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
+   VALUES('2', '235941', 'Jose', 2001-02-02, 'Joseficticio@gmail.com');
    
-   INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
-   VALUES('1', '235942', 'Gabriel', 2003-03-03, 'Gabrielficticio@gmail.com');
+   INSERT INTO alunos(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
+   VALUES('3', '235942', 'Gabriel', 2003-03-03, 'Gabrielficticio@gmail.com');
    
-   INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
-   VALUES('1', '235943', 'Marcelo', 2004-04-04, 'Marceloficticio@gmail.com');
+   INSERT INTO alunos(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
+   VALUES('4', '235943', 'Marcelo', 2004-04-04, 'Marceloficticio@gmail.com');
 
-	INSERT INTO TAB_Aluno_a(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
-	VALUES('1', '235944', 'Pedro', 2005-05-05, 'Pedroficticio@gmail.com');
+	INSERT INTO alunos(ID, RA, NOME, Data_Nascimento, Endereco_Email) 
+	VALUES('5', '235944', 'Pedro', 2005-05-05, 'Pedroficticio@gmail.com');
 	
 
 
@@ -35,17 +35,17 @@ CREATE TABLE colaboradores (
   	SALARIO DECIMAL(10,2)
 );
 
-  INSERT INTO TAB_colaborador_a(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
+  INSERT INTO colaboradores(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
   VALUES ('1', 235940,'Igor', '5243', 'Gerente de TI', 25.000,00 );
   
-  INSERT INTO TAB_colaborador_a(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
-  ALUES ('1', 235941,'Jose', '5244', 'Assistente de TI', 2.500,00 );  
+  INSERT INTO colaboradores(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
+  ALUES ('2', 235941,'Jose', '5244', 'Assistente de TI', 2.500,00 );  
   
-  INSERT INTO TAB_colaborador_a(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
-  VALUES ('1', 235942,'Gabriel', '5245', 'Especialista em TI', 3.000,00 ); 
+  INSERT INTO colaboradores(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
+  VALUES ('3', 235942,'Gabriel', '5245', 'Especialista em TI', 3.000,00 ); 
   
-  INSERT INTO TAB_colaborador_a(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
-  VALUES ('1', 235943,'Marcelo', '5244', 'Estagiario de TI', 2.000,00 );  
+  INSERT INTO colaboradores(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
+  VALUES ('4', 235943,'Marcelo', '5244', 'Estagiario de TI', 2.000,00 );  
   
- 	 INSERT INTO TAB_colaborador_a(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
-  	VALUES ('1', 235944,'Pedro', '5245', 'Estagiario de TI', 2.000,00 ); 
+ 	 INSERT INTO colaboradores(ID, CODIGO, NOME, CPF, CARGO, SALARIO) 
+  	VALUES ('5', 235944,'Pedro', '5245', 'Estagiario de TI', 2.000,00 ); 
