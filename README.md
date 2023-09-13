@@ -6,7 +6,7 @@ Realizando a criação de DER,MERS e banco de dados.
 1 -Um petshop deseja manter cadastrados seus clientes bem como seus pets.
 Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
-![exer1]()
+![exer1](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Petshop/Etapa%201%20-%20Petshop.png)
 
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
 Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
