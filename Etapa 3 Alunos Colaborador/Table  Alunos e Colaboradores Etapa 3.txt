@@ -1,0 +1,29 @@
+CREATE TABLE alunos (
+	nome VARCHAR (50),
+  	ra VARCHAR (15),
+  	data_nascimento VARCHAR(10)
+	endereço VARCHAR (15)
+	email VARCHAR (100)
+);
+
+INSERT INTO alunos (nome, cpf, data_nascimento, endereço, email)
+VALUES ('Igor','000.111.222-33','13/08/2023');
+
+
+
+
+
+
+
+
+CREATE TABLE colacoradores (
+	id VARCHAR(50),
+	nome VARCHAR(50),
+  	cpf 
+  	cargo VARCHAR (15)
+	salario
+  	
+);
+
+INSERT INTO projeto (id, nome, cpf, cargo, salario)
+VALUES ('1', Igor, '000.111.222-33', 'Gerente De Projetos', '25.000');

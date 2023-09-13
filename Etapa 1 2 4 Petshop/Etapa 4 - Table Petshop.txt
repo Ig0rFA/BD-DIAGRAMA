@@ -1,0 +1,18 @@
+CREATE TABLE cliente (
+	nome_dono VARCHAR(50),
+  	cpf VARCHAR (15),
+  	email VARCHAR (100)
+);
+
+INSERT INTO cliente (nome_dono, cpf, email)
+VALUES ('Igor', '000.111.222-33', 'igorficticio@gmail.com');
+
+
+CREATE TABLE pet (
+	nome_animal VARCHAR(20),
+ 	especie VARCHAR (15),
+  	data_nascimento VARCHAR (10)
+);
+
+INSERT INTO pet (nome_animal, especie, data_nascimento)
+VALUES ('bidu','cachorro','13-08-2023');

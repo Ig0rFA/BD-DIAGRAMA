@@ -1,0 +1,30 @@
+CREATE TABLE diretor (
+	nome VARCHAR (50),
+  	data_nascimento DATE,
+  	nacionalidade VARCHAR (15)
+);
+
+INSERT INTO diretor(nome, data_nascimento, nacionalidade)
+VALUES ('Joseph Kosinski', '1974-03-03', 'Americano');
+
+
+CREATE TABLE filme (
+	titulo    VARCHAR (50),
+  	duracao   FLOAT,
+  	idioma    VARCHAR(10),
+  	preco     DECIMAL (9,2)
+);
+
+
+INSERT INTO filme (titulo, duracao, idioma, preco)
+VALUES ('Tron', 2.05, 'Ingles', 00.00);
+
+
+CREATE TABLE elenco (
+	nome VARCHAR (50),
+  	data_nascimento DATE,
+  	nacionalidade VARCHAR (20)
+);
+
+INSERT INTO elenco (nome, data_nascimento, nacionalidade)
+VALUES ('Garrett Hedlund','1984-11-03', 'Americano');

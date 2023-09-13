@@ -1,0 +1,17 @@
+CREATE TABLE montadora (
+	nome VARCHAR (30),
+  	site VARCHAR (100),
+  	logo_tipo VARCHAR (30)
+);
+
+INSErT INTO montadora (nome, site, logo_tipo)
+VALUES ('Toyota','www.toyota.com','toyota');
+
+CREATE TABLE automovel (
+	placa VARCHAR (8),
+  	modelo VARCHAR (15),
+  	ano INT
+);
+
+INSERT INTO automovel (placa, modelo, ano)
+VALUES ('AAA-000', 'corolla', 2015);

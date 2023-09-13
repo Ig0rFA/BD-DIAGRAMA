@@ -1,0 +1,21 @@
+CREATE TABLE autor (
+	nome VARCHAR (50),
+  	email VARCHAR (50),
+  	data_nascimento DATE,
+  	nacionalidade VARCHAR (15)
+);
+
+INSERT INTO autor (nome, email, data_nascimento, nacionalidade)
+VALUES ('William Shakespeare', 'williamshakespeare@gmail.com','1564-04-23','Reino Unido');
+
+
+CREATE TABLE livro (
+	titulo              VARCHAR (50),
+  	data_lancamento     DATE,
+  	quantidade_pagina	INT,
+  	numero_edicao		INT
+                   
+);
+
+INSERT INTO livro (titulo, data_lancamento, quantidade_pagina, numero_edicao)
+VALUES ('Romeu e Julieta', '1597-01-01', 160, 8);
