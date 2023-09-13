@@ -62,3 +62,24 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 ![]()
 
 ## Tópico 3 e 4:
+
+Segue o link das pastas que contém os exercícios.
+Os arquivos se encontram no formato .txt.
+
+PetShop:
+
+
+Produtora de Games:
+
+
+Biblioteca:
+
+
+Locadora:
+
+
+Supermercado:
+
+
+videoteca:
+
