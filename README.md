@@ -11,7 +11,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
 Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
-![exe2]()
+![exe2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Produtora%20De%20Jogos/Etapa%201%20-%20Produtora%20De%20Jogos.png)
 
 (MER e Cardinalidade):
 
@@ -42,7 +42,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
 Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
-![exe2]()
+![exe2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Produtora%20De%20Jogos/Etapa%202%20-%20Produtora%20De%20Jogos.png)
 
 SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
 
