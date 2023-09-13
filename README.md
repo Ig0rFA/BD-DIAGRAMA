@@ -75,19 +75,19 @@ Segue o link das pastas que contém os exercícios.
 Os arquivos se encontram no formato .txt.
 
 PetShop:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Petshop/Etapa%204%20-%20Table%20Petshop.txt
 
 Produtora de Games:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Produtora%20De%20Jogos/Etapa%204%20-Table%20Produtora.txt
 
 Biblioteca:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Biblioteca/Etapa%204%20-Table%20Biblioteca.txt
 
 Locadora:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Locadora/Etapa%204%20-Table%20Montadora.txt
 
 Supermercado:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Supermercado/Etapa%204%20-Table%20Supermercado.txt
 
 Videoteca:
-
+https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Videoteca/Etapa%204%20-Table%20Videoteca.txt
