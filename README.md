@@ -62,7 +62,14 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ![Etapa 2/2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Videoteca/Etapa%202%20-%20Videoteca.png)
 
-## Tópico 3 e 4:
+## Tópico 3:
+Segue o link da pasta que contém o exercício.
+O arquivo se encontra no formato .txt.
+
+
+
+
+## Tópico 4:
 
 Segue o link das pastas que contém os exercícios.
 Os arquivos se encontram no formato .txt.
