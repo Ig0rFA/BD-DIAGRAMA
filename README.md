@@ -30,7 +30,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 4- Uma videoteca precisa cadastrar o título, duração, idioma original e preço de cada filme. É necessário cadastrar também o elenco de cada filme onde se registra o nome, data de nascimento, nacionalidade de cada ator/atriz. Opcionalmente, inclua o cadastro de diretores com atributos que julgar necessários. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
-![exe4]()
+![exe4](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Videoteca/Etapa%201%20-%20Videoteca.png)
 
 ## Topico 2 :
 Conforme o material apresentado sobre atributos, refaça os MER criados para os exercícios acima, adaptando com os devidos atributos explicados durante a aula;
@@ -60,7 +60,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 4- Uma videoteca precisa cadastrar o título, duração, idioma original e preço de cada filme. É necessário cadastrar também o elenco de cada filme onde se registra o nome, data de nascimento, nacionalidade de cada ator/atriz. Opcionalmente, inclua o cadastro de diretores com atributos que julgar necessários.
 
-![]()
+![](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Videoteca/Etapa%202%20-%20Videoteca.png)
 
 ## Tópico 3 e 4:
 
