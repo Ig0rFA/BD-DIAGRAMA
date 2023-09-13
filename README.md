@@ -81,5 +81,5 @@ Locadora:
 Supermercado:
 
 
-videoteca:
+Videoteca:
 
