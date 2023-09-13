@@ -66,8 +66,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 Segue o link da pasta que contém o exercício.
 O arquivo se encontra no formato .txt.
 
-
-
+![Etapa 3]([https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Locadora/Etapa%202%20-%20Locadora.png](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%203%20Alunos%20Colaborador/Table%20%20Alunos%20e%20Colaboradores%20Etapa%203.txt))
 
 ## Tópico 4:
 
