@@ -23,7 +23,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 2- Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
-![exe2]()
+![exe2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Locadora/Etapa%201%20-%20Locadora.png)
 
 3- Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 ![exe3]()
@@ -52,7 +52,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 2- Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
-![exe2]()
+![exe2](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Locadora/Etapa%202%20-%20Locadora.png)
 
 3- Um supermercado cadastra seus produtos. Um produto é identificado por seu nome, preço, quantidade em estoque, nome da marca, SAC da marca, nacionalidade da marca. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
