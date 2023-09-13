@@ -19,7 +19,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 1- Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
-![exer1]()
+![exer1](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Biblioteca/Etapa%201%20-%20Biblioteca.png)
 
 2- Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
@@ -48,7 +48,7 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 1- Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
-![exe1]()
+![exe1](https://github.com/Ig0rFA/BancoDeDados/blob/main/Etapa%201%202%204%20Biblioteca/Etapa%202%20-%20Biblioteca.png)
 
 2- Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
