@@ -1,6 +1,7 @@
 # EXERCÍCIOS BANCO DE DADOS  
 ## Descrição
-Atividades realizadas na materia Banco de Dados. 
+Atividades realizadas na materia Banco de Dados.
+Realizando a criação de DER,MERS e banco de dados.
 ## Topico 1 (DER):
 1 -Um petshop deseja manter cadastrados seus clientes bem como seus pets.
 Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
