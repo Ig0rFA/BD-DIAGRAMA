@@ -1,4 +1,4 @@
-# EXERCÍCIOS BANCO DE DADOS  
+# BD-DIAGRAMA 
 ## Descrição
 Atividades realizadas na materia Banco de Dados.
 Realizando a criação de DER,MERS e banco de dados.
